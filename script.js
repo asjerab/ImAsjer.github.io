@@ -1,3 +1,5 @@
+
+
 let products;
 
 let storedProducts = localStorage.getItem('products');
